@@ -1,3 +1,4 @@
 # 노인 생활인구 기반 수요 분석 (데이터 문제해결은행 활용 경진대회)
 > 생활인구 데이터를 바탕으로 지역별 수요를 지표화하고, 우선순위를 도출했습니다.
 
+- 보고서(PDF): https://github.com/rhyooontj/project-data-recipebank/blob/main/docs/report.pdf
