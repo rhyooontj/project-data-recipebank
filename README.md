@@ -20,7 +20,7 @@
   - 보조 데이터: 고령자 현황, 노인여가복지시설, 노인의료복지시설, 노인재가복지시설 (기간: 2023년 1년치) 
   - 분석 단위: 서울시 25개 자치구
   - 데이터 안내: [`data/README.md`](./data/README.md)
-  - 예시 데이터(집계본): [`data/processed/`](./data/processed)
+  - 예시 데이터(집계본): [`data/processed/`](./data/processed/서울시_자치구별_'노년행복'_유형_분류.csv)
 
 
 
